@@ -20,7 +20,7 @@
   </tr>
 </table>
 
-**Skills:** <br>
+:brain: **Skills:** <br>
 
 <div style="display: inline-block">
 
