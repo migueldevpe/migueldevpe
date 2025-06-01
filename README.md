@@ -1,8 +1,8 @@
 <div>
   
-  <img align="right" width="350px" src="https://cdn.discordapp.com/attachments/1364656187030769695/1378609086131863592/msdevgithubicon.png?ex=683d3943&is=683be7c3&hm=0197141d12144eb9ba510dda7a229116da2c805e305a9f6ff09bbdfde1750e74&">
+  <img align="right" width="350px" src="assets/to_readme/msdevgithubicon.png">
 
-  ### Olá <img width="20px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">
+  ### Olá <img width="20px" src="assets/to_readme/Hi.gif">
   
 </div>
 
