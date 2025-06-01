@@ -8,13 +8,17 @@
 
 <br>
 
-<p>Me chamo Miguel Soares, sou um jovem curioso e apaixonado por tecnologia, dando os primeiros passos no mundo da **programação**. Estou sempre buscando aprender, criar e evoluir — e este repositório é parte dessa jornada.</p>
+<div>
+
+Me chamo Miguel Soares, sou um jovem curioso e apaixonado por tecnologia, dando os primeiros passos no mundo da **programação**. Estou sempre buscando aprender, criar e evoluir — e este repositório é parte dessa jornada.
 
 <br>
 
-<p>Atualmente estudando **desenvolvimento web** e explorando diferentes linguagens, frameworks e boas práticas.</p>
+Atualmente estudando **desenvolvimento web** e explorando diferentes linguagens, frameworks e boas práticas.
 
 <br>
+
+</div>
 
 #
 
