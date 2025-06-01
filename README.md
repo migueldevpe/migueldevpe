@@ -1,7 +1,7 @@
 
 <table>
   <tr>
-    <td align="left" valign="top" width="60%">
+    <td align="left" valign="middle" width="60%">
       <h3>Olá! <img width="20px" src="assets/to_readme/hi.gif"></h3>
       <br>
       <p>
