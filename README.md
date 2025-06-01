@@ -1,4 +1,40 @@
-## Hi there 👋
+<div>
+  
+  <img align="right" width="350px" src="https://cdn.discordapp.com/attachments/1364656187030769695/1378609086131863592/msdevgithubicon.png?ex=683d3943&is=683be7c3&hm=0197141d12144eb9ba510dda7a229116da2c805e305a9f6ff09bbdfde1750e74&">
+
+  ### Olá <img width="20px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">
+  
+</div>
+
+<br>
+
+<p>Me chamo Miguel Soares, sou um jovem curioso e apaixonado por tecnologia, dando os primeiros passos no mundo da **programação**. Estou sempre buscando aprender, criar e evoluir — e este repositório é parte dessa jornada.</p>
+
+<br>
+
+<p>Atualmente estudando **desenvolvimento web** e explorando diferentes linguagens, frameworks e boas práticas.</p>
+
+<br>
+
+#
+
+<div>
+
+Skills: <br>
+
+<div style="display: inline-block">
+  
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  
+</div>
+
+Ferramentas: <br>
+
+<div>
+  <img src="https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white"> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"> 
+</div>
+
+</div>
 
 <!--
 **migueldevpe/migueldevpe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
