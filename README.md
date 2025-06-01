@@ -2,7 +2,7 @@
 <table>
   <tr>
     <td align="left" valign="top" width="60%">
-      <h3>Olá! <img width="20px" src="assets/to_readme/Hi.gif"></h3>
+      <h3>Olá! <img width="20px" src="assets/to_readme/hi.gif"></h3>
       <br>
       <p>
         Me chamo Miguel Soares, sou um jovem curioso e apaixonado por tecnologia, dando os primeiros passos no mundo da <strong>programação</strong>.
@@ -15,7 +15,7 @@
       <br>
     </td>
     <td align="center" valign="middle" width="40%">
-      <img src="assets/to_readme/msdevgithubicon.png" alt="Notebook com café" width="350px"/>
+      <img src="assets/to_readme/notebookiconmigueldevpe.gif" alt="Notebook com café" width="350px"
     </td>
   </tr>
 </table>
