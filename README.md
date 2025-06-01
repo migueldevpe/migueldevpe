@@ -1,8 +1,8 @@
 <div>
   
-  <img align="right" width="35%" src="assets/to_readme/msdevgithubicon.png">
+  <img align="right" width="350vw" src="assets/to_readme/msdevgithubicon.png">
 
-  ### Olá <img width="20px" src="assets/to_readme/Hi.gif">
+  ### Olá! <img width="20px" src="assets/to_readme/Hi.gif">
   
 </div>
 
