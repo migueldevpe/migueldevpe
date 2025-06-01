@@ -20,7 +20,7 @@
   </tr>
 </table>
 
-Skills: <br>
+**Skills:** <br>
 
 <div style="display: inline-block">
 
@@ -28,10 +28,10 @@ Skills: <br>
 
 </div>
 
-Ferramentas: <br>
+**Ferramentas:** <br>
 
 <div>
-  <img src="https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white"> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"> <img src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white"> <img src="https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white">  
 </div>
 
 </div>
