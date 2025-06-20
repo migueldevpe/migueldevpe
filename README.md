@@ -2,7 +2,7 @@
 <h3>Olá! <img width="20px" src="assets/to_readme/hi.gif" alt="Emoji de Olá"></h3>
 <br>
 <p>
-  Me chamo Miguel Soares, sou um jovem curioso e apaixonado por tecnologia, dando os primeiros passos no <br> mundo da <strong>programação</strong>.
+  Me chamo Miguel Soares, sou um jovem curioso e apaixonado por tecnologia, dando os primeiros passos no mundo da <strong>programação</strong>.
   Estou sempre buscando aprender, criar e evoluir — e este repositório é parte dessa jornada.
 </p>
 <br>
